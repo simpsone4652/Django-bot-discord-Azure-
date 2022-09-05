@@ -48,4 +48,4 @@ async def on_message(message):
             await message.channel.send('Niestety, to nie prawda.')
         
 
-client.run('OTgxODUyOTE4NDgxMjg5MjY2.GlkQf6.C2pCrn9w92UVUwOgzG0r35TlGzLYZOKbECTnyk')
+client.run('#secret')
